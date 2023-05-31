@@ -216,38 +216,38 @@ endmodule
 
 ### RTL LOGIC FOR FLIP FLOPS :
 
-### SR FLIP FLOP RTL :
+### 1.SR FLIP FLOP RTL :
 
 ![rtl1](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/d577627e-7d88-4073-bfbd-e06846af8c32)
 
-### JK FLIP FLOP RTL :
+### 2.JK FLIP FLOP RTL :
 
 ![rtl2](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/e280745a-fe83-456e-a4c2-cd7d7cadae1c)
 
-### T FLIP FLOP RTL :
+### 3.T FLIP FLOP RTL :
 
 ![rtl3](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/0fa68e14-a813-4e15-a735-0f9bbdd27357)
 
-### D FLIP FLOP RTL :
+### 4.D FLIP FLOP RTL :
 
 ![rtl4](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/908c0c9a-8081-493b-86c9-add32aafb517)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS :
 
-### SR FLIP FLOP TIMING DIAGRAM :
+### 1.SR FLIP FLOP TIMING DIAGRAM :
 
 ![time1](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/3a9aff0a-cd17-4333-9df6-6612e91eeb5a)
 
-### JK FLIP FLOP TIMING DIAGRAM :
+### 2.JK FLIP FLOP TIMING DIAGRAM :
 
 ![time2](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/bf4f66ff-f01f-421e-bea5-a6ca782a80b2)
 
-### T FLIP FLOP TIMING DIAGRAM :
+### 3.T FLIP FLOP TIMING DIAGRAM :
 
 ![time3](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/1c6a4bb4-16ec-457a-bbbb-b50229b1cd61)
 
-### D FLIP FLOP TIMING DIAGRAM :
+### 4.D FLIP FLOP TIMING DIAGRAM :
 
 ![time4](https://github.com/anto-richard/Experiment--05-Implementation-of-flipflops-using-verilog/assets/93427534/217975aa-60df-41b6-a31c-48fa065866d2)
 
